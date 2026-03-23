@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="yWxE5Q532rVQEG8vsMX_">
-    <mxGraphModel dx="1018" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,11 +112,65 @@
         <mxCell id="3-PgG9kocuqCWqFA5v_6-43" edge="1" parent="1" source="3-PgG9kocuqCWqFA5v_6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3-PgG9kocuqCWqFA5v_6-42" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-2" edge="1" parent="1" source="3-PgG9kocuqCWqFA5v_6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3-PgG9kocuqCWqFA5v_6-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Https Client" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="3-PgG9kocuqCWqFA5v_6-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="* Cover Basics of code meaning&amp;nbsp;&lt;div&gt;* How a request work&lt;/div&gt;&lt;div&gt;* Service Worker&lt;/div&gt;&lt;div&gt;* ngConf&lt;/div&gt;&lt;div&gt;* Caching&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="230" x="540" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-4" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Basics Of Testing" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-6" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Meaning of&amp;nbsp;&lt;div&gt;tsconfig.js, angular.json, bootstrap project&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-8" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="InterCepter" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-10" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="SEO Basic" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-12" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-14" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Pipes" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="Basic Implementation" vertex="1">
+          <mxGeometry height="80" width="210" x="540" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-18" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-20" edge="1" parent="1" source="CG_P8V8FqL1yrVnPx1AG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CG_P8V8FqL1yrVnPx1AG-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Why Angular Used" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="Diff Angular/React" vertex="1">
+          <mxGeometry height="80" width="220" x="540" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="CG_P8V8FqL1yrVnPx1AG-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Types of Data binding" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
